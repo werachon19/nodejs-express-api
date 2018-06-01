@@ -1,5 +1,5 @@
 # nodejs-express-api-init
-[![Build Status](https://travis-ci.com/pamontep/nodejs-express-api-init.svg?branch=master)](https://travis-ci.com/pamontep/nodejs-express-api-init)  [![codecov](https://codecov.io/gh/pamontep/nodejs-express-api-init/branch/master/graph/badge.svg)](https://codecov.io/gh/pamontep/nodejs-express-api-init)
+[![Build Status](https://travis-ci.com/pamontep/nodejs-express-api-init.svg?branch=master)](https://travis-ci.com/pamontep/nodejs-express-api-init) [![codecov](https://codecov.io/gh/pamontep/nodejs-express-api-init/branch/master/graph/badge.svg)](https://codecov.io/gh/pamontep/nodejs-express-api-init) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A nodejs express api init for ready to development.
 
